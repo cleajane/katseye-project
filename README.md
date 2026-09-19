@@ -2,6 +2,8 @@
 
 # Tiny Tapeout Verilog Project Template
 
+tt_um_vga_glyph_mode.v
+
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
